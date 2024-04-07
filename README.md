@@ -5,4 +5,4 @@
 | №  | Проект                                                                                                     | Демо                                                  |
 | -- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 01 | [Dugimail](https://github.com/inteltone/emails/tree/master/dugimail)                                       | [Демо](https://inteltone.ru/emails/dugimail/)         |
-| 02 | [Fplus](https://github.com/inteltone/emails/tree/master/win2win)                                           | [Демо](https://inteltone.ru/emails/win2win/)          |
+| 02 | [win2win](https://github.com/inteltone/emails/tree/master/win2win)                                         | [Демо](https://inteltone.ru/emails/win2win/)          |
